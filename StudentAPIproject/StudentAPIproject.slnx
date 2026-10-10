@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Stu_Bussniss/Stu_Bussniss.csproj" Id="62a846f4-670d-46ce-906d-86a1bc02e7b7" />
+  <Project Path="../Stu_DataAccess/Stu_DataAccess.csproj" Id="9b93ce07-b67b-4376-9737-54a498884365" />
+  <Project Path="StudentAPIproject.csproj" />
+</Solution>
